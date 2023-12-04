@@ -69,7 +69,7 @@ ________________________________________________________
 
 Nombre Tabla: **clasificacion**
 
-En esta tabla se registraron las clasificaciones de las muestras
+En esta tabla se registraron las clasificaciones de las muestras. Aqui existes 100 datos faltantes que se deben clasificar con un modelo de machine learning.
 * **id**: identificador unico de la muestra
 * **etiqueta**: etiqueta de clasificacion de la muestra, posibles valores (Positivo, Negativo)
 
